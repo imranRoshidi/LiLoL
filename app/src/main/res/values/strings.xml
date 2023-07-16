@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Lilol: Online Transaction Learning Platform</string>
+
+    <string name="let_s_log_y">
+        Let\u00E2\u0080\u0099s Log You In
+    </string>
+
+    <string name="let_s_regis">
+        Let\u00E2\u0080\u0099s Register\nAccount
+    </string>
+
+    <string-array name="analytics_category">
+        <item>Pin</item>
+        <item>Login</item>
+        <item>Transfer_Pay</item>
+    </string-array>
+
+</resources>

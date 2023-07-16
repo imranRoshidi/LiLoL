@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "765815462577",
+    "project_id": "lilol-fyp",
+    "storage_bucket": "lilol-fyp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765815462577:android:3eabeef084a65f9b712090",
+        "android_client_info": {
+          "package_name": "com.example.lilol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765815462577-lj2sn41ndc4jvo3g6pk11ao4r5jilk25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyor7fgpVd3t7B1lU5X68J2ZMery--Glk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765815462577-lj2sn41ndc4jvo3g6pk11ao4r5jilk25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
